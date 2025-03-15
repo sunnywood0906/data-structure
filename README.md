@@ -12,8 +12,7 @@
        </ul>    
      </h4></li>
      <li><h4>流程圖：</h4></li>
-     
-     <li><h4>介紹影片：(有聲播放 :loud_sound:)https://youtu.be/fgbZWyI5_WA</h4></li>
-     <li><h4>主要程式碼：https://github.com/sunnywood0906/Web/tree/main/src</h4></li>
+     ![image](https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.png)
+     <li><h4>主要程式碼：https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.py</h4></li>
 </ul>
 
