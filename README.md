@@ -16,6 +16,6 @@
      <li><h4>主要程式碼：</h4></li>
           https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.py
       <li><h4>介紹影片：</h4></li>
-          (有聲播放 :loud_sound:)https://youtu.be/es93lPCYgOY?si=VPL7d094uRocM2ey
+          (有聲播放 :loud_sound:)https://youtu.be/9vcjv4ZhzGY
 </ul>
 
