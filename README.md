@@ -12,7 +12,7 @@
        </ul>    
      </h4></li>
      <li><h4>流程圖：</h4></li>
-     https://raw.githubusercontent.com/sunnywood0906/data-structure/main/recipe_suggester.png
+     <img src="https://raw.githubusercontent.com/sunnywood0906/data-structure/main/recipe_suggester.png" alt="Recipe Suggester" width="500">
      <li><h4>主要程式碼：</h4></li>
           https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.py
       <li><h4>介紹影片：</h4></li>
