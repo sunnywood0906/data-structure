@@ -29,10 +29,10 @@
        <li><h5>3.由AI判斷節省人力審查時間。</h5></li>
        <li><h5>4.指標判斷輸出CSV檔一覽無遺。</h5></li>
        <li><h5>※範例僅由AI生成，無引用特定人之話語！範例資訊：https://github.com/sunnywood0906/data-structure/blob/main/data_analysis.csv</h5></li>
-       <li><h5>※範例僅由AI生成，無引用特定人之話語！範例資訊：https://github.com/sunnywood0906/data-structure/blob/main/data_analysis.csv</h5></li>
+       <li><h5>※指標判斷輸出範例：https://github.com/sunnywood0906/data-structure/blob/main/113_batch.csv</h5></li>
        </ul>    
      </h4></li>
      <li><h4>主要程式碼：</h4></li>
-          https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.py
+          https://github.com/sunnywood0906/data-structure/blob/main/analysis.py
 </ul>
 
