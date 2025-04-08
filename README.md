@@ -27,7 +27,9 @@
        <li><h5>1.根據心理諮商個案的對話以各項指標判斷個案面臨的問題。</h5></li>
        <li><h5>2.多方位的指標判斷更能貼近個案實際心理狀況。</h5></li>
        <li><h5>3.由AI判斷節省人力審查時間。</h5></li>
-       <li><h5>※範例僅由AI生成，無引用特定人之話語！</h5></li>
+       <li><h5>4.指標判斷輸出CSV檔一覽無遺。</h5></li>
+       <li><h5>※範例僅由AI生成，無引用特定人之話語！範例資訊：https://github.com/sunnywood0906/data-structure/blob/main/data_analysis.csv</h5></li>
+       <li><h5>※範例僅由AI生成，無引用特定人之話語！範例資訊：https://github.com/sunnywood0906/data-structure/blob/main/data_analysis.csv</h5></li>
        </ul>    
      </h4></li>
      <li><h4>主要程式碼：</h4></li>
