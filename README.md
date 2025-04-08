@@ -17,5 +17,20 @@
           https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.py
       <li><h4>介紹影片：</h4></li>
           (有聲播放 :loud_sound:)https://youtu.be/9vcjv4ZhzGY
+     
+</ul>
+<p><h3>HW2-諮商分析機器人</p>
+<ul style='list-style-type'>
+     <li><h4>名稱：諮商分析機器人</h4></li>
+     <li><h4>功能介紹：
+       <ul style='list-style-type'>
+       <li><h5>1.根據心理諮商個案的對話以各項指標判斷個案面臨的問題。</h5></li>
+       <li><h5>2.多方位的指標判斷更能貼近個案實際心理狀況。</h5></li>
+       <li><h5>3.由AI判斷節省人力審查時間。</h5></li>
+       <li><h5>※範例僅由AI生成，無引用特定人之話語！</h5></li>
+       </ul>    
+     </h4></li>
+     <li><h4>主要程式碼：</h4></li>
+          https://github.com/sunnywood0906/data-structure/blob/main/recipe_suggester.py
 </ul>
 
