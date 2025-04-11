@@ -47,12 +47,12 @@
        <li><h6>1.playwright需要開啟網頁抓取資料，對於多人使用或是查詢多支股票會耗時較久也會很耗資源。</h6></li>
        <li><h6>2.使用api的話就是直接抓資料很快速也不用像playweright一樣還要下載瀏覽器，比較適合大量查詢和多人使用。</h6></li>
        <li><h6>為了繼續開發所以我沒有直接把要查詢的股票代碼直接打在一起，為了方便助教批閱這邊附上執行結果。</h6></li>
-        <img src="https://raw.githubusercontent.com/sunnywood0906/data-structure/main/recipe_suggester.png" alt="Recipe Suggester" width="500">    
+        <img src="https://github.com/sunnywood0906/data-structure/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-04-11%20180345.png" alt="Recipe Suggester" width="500">    
        <li><h6>題外話：會想做這個是因為我每次都忘記看股票都是我媽叫我看，所以想做一個他會直接提醒我的。用playwright自己提醒當然也可以，但我也想給我媽用(很好笑)，而且既然都要做了那當然就直接做好，所以我果斷放棄playwright(抱歉助教我這個作業很廢)，我是真的有經過思考過程的，畢竟做程式就是要應用生活為了交作業而寫真的浪費時間，所以我會花很多時間在完成一項作業因為我每一項幾乎都是為我自己做的(其實作業2原本是要寫分析吵架機器人，可以匯入line文字檔判斷的那種(扯遠了)喔對了這個題外話只是補充我不是想要敷衍作業的題外話我沒有要情勒助教給我好分數)總之我會好好完成的(我連Line Messaging API都拿了)祝大家發大財。</h6></li>
        </ul>  
      </h4></li>
      <li><h4>主要程式碼：</h4></li>
-          https://github.com/sunnywood0906/data-structure/blob/main/analysis.py
+          https://github.com/sunnywood0906/data-structure/blob/main/stock_tracker.py
 </ul>
 
 
