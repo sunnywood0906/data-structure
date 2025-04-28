@@ -55,4 +55,21 @@
           https://github.com/sunnywood0906/data-structure/blob/main/stock_tracker.py
 </ul>
 
-
+<p><h3>HW4-進階食材管理機器人</p>
+<ul style='list-style-type'>
+     <li><h4>名稱：進階食材管理機器人</h4></li>
+     <li><h4>功能介紹：
+       <ul style='list-style-type'>
+       <li><h5>1.根據HW1改製成輸出PDF檔的真正食譜機器人。</h5></li>
+       <li><h5>2.將AI回覆優化成可自動換行，更容易閱讀。</h5></li>
+       <li><h5>3.AI回覆自動跳頁，不怕輸入超多食材。</h5></li>
+       <li><h5>4.更早偵測換頁避免因為快速大量輸出而導致換頁吃字。</h5></li>
+       <li><h5>5.依據日期及時間命名檔名，不覆蓋下載紀錄。</h5></li>
+       <li><h5>6.可一次操作多種食譜及模型最後再一次下載成PDF。</h5></li>
+       </ul>    
+     </h4></li>
+     <li><h4>主要程式碼：</h4></li>
+          https://github.com/sunnywood0906/data-structure/blob/main/pdf.py
+     <li><h4>範例輸出食譜：</h4></li>
+          https://github.com/sunnywood0906/data-structure/blob/main/%E9%A3%9F%E6%9D%90%E7%AE%A1%E7%90%86%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B0%8D%E8%A9%B1%E7%B4%80%E9%8C%84_20250428_1218.pdf
+</ul>
