@@ -73,3 +73,16 @@
      <li><h4>範例輸出食譜：</h4></li>
           https://github.com/sunnywood0906/data-structure/blob/main/%E9%A3%9F%E6%9D%90%E7%AE%A1%E7%90%86%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%B0%8D%E8%A9%B1%E7%B4%80%E9%8C%84_20250428_1218.pdf
 </ul>
+
+<p><h3>HW5-食材管理機器人網站(含使用介面)</p>
+<ul style='list-style-type'>
+     <li><h4>名稱：食材管理機器人網站</h4></li>
+     <li><h4>功能介紹：
+       <ul style='list-style-type'>
+       <li><h5>1.根據HW1改製成可以直接在網頁上互動的食材機器人。</h5></li>
+       <li><h5>2.結合HW3可以直接在網頁上下載成PDF。</h5></li>
+       <li><h5>3.簡潔好看的網頁畫面不怕不會用。</h5></li>
+       </ul>    
+     </h4></li>
+     <li><h4>主要程式碼：</h4></li>
+          https://github.com/sunnywood0906/data-structure/blob/main/app.py
